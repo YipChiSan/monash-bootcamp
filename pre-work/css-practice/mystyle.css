@@ -1,1 +1,49 @@
--
+h1 {
+    text-align: center;
+}
+
+#red-text {
+    color: red;
+}
+
+#blue-text {
+    color: blue;
+}
+
+#green-text {
+    color: green;
+}
+
+#big-text {
+    font-size: large;
+}
+
+#tiny-text {
+    font-size: x-small;
+}
+
+#center-text {
+    text-align: center;
+}
+
+#bold-text {
+    font-weight: bold;
+}
+
+#different-font {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#multiple-attributes-text {
+    color: orange;
+    font-size: large;
+    font-weight: bold;
+}
+
+.styledFont {
+    color:blueviolet;
+}
+
+#styledImage {
+    border: 3px solid red;
+}
